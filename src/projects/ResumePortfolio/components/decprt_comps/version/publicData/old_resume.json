@@ -1,0 +1,139 @@
+{
+	"profile": {
+		"name": "Nikhil Uke",
+		"title": "Senior Software Engineer",
+		"profilePicture": "profilepic.png"
+	},
+	"summary": "Results-driven IT professional with 10 years of experience in application development, modernization, and performance optimization across E-Commerce, Telecommunication, Insurance, and Public Safety domains. Proficient in building scalable web, mobile, and desktop applications using React.js, Next.js, Node.js, React Native, Electron.js, JavaScript, TypeScript, HTML5, CSS, and Salesforce Commerce Cloud (SFCC) Composable Storefront PWA Kit. Experienced in leveraging Generative AI and Prompt Engineering to enhance application capabilities and user experience. Strong understanding of Agile and Waterfall methodologies, with hands-on expertise in tools such as Jira, Bitbucket, Confluence, GitHub, Jenkins, CI/CD pipelines, Algolia, Amplience, SonarQube, and Postman. Known for delivering highquality solutions, leading small teams, and driving continuous improvements in performance, accessibility, and SEO.",
+	"projects": [
+		{
+			"name": "Current Project  - ACSS",
+			"description": "Our team migrated one of the biggest USA telecommunications brands' support software ACSS web app to React, enabling better customer support. Features include plan search, offer search, and customer information.",
+			"technologies": [
+				"React",
+				"Redux",
+				"Saga",
+				"JavaScript",
+				"Bootstrap",
+				"UIKit",
+				"Node.js",
+				"CSS3",
+				"HTML5"
+			]
+		},
+		{
+			"name": "Project 5 - Ariat Website",
+			"description": "Developed an e-commerce platform for Ariat, enabling seamless customer shopping and showcasing products.",
+			"technologies": [
+				"JavaScript",
+				"Salesforce B2C",
+				"Amplience",
+				"Algolia AI Search",
+				"HTML5",
+				"CSS3"
+			]
+		},
+		{
+			"name": "Project 4 - Control Works",
+			"description": "A web application for managing resources, workers, and incidents for public safety control rooms.",
+			"technologies": [
+				"React",
+				"TypeScript",
+				"Redux",
+				"Saga",
+				"CSS",
+				"RabbitMQ"
+			]
+		},
+		{
+			"name": "Project 3 -CIAM",
+			"description": "Centralized system for login, registration, and profile management across multiple applications.",
+			"technologies": [
+				"React",
+				"ForgeRock",
+				"Bootstrap",
+				"JavaScript",
+				"CSS"
+			]
+		},
+		{
+			"name": "Project 2 - CXR",
+			"description": "Web application for policy holders to manage insurance-related services.",
+			"technologies": [
+				"React",
+				"ForgeRock",
+				"Bootstrap",
+				"JavaScript",
+				"CSS"
+			]
+		},
+		{
+			"name": "Project 1 - Large Property Application",
+			"description": "A tool for underwriters to evaluate property policies and generate reports.",
+			"technologies": [
+				"React",
+				"Django",
+				"SQL",
+				"Bootstrap",
+				"JavaScript",
+				"CSS"
+			]
+		}
+	],
+	"companies": [
+		{
+			"name": "Publicis Sapient",
+			"role": "Senior Software Engineer",
+			"years": "September 2021 – Present"
+		},
+		{
+			"name": "Capita India Pvt Ltd",
+			"role": "Software Engineer",
+			"years": "January 2019 – September 2021"
+		},
+		{
+			"name": "Accenture Solutions Pvt Ltd",
+			"role": "Analyst Software Engineer",
+			"years": "December 2017 – December 2018"
+		},
+		{
+			"name": "Accenture Solutions Pvt Ltd",
+			"role": "Associate Software Engineer",
+			"years": "May 2016 – December 2017"
+		}
+	],
+	"skills": [
+		"React JS",
+		"Next JS",
+		"Node JS",
+		"Redux",
+		"Saga",
+		"JavaScript",
+		"TypeScript",
+		"HTML5",
+		"CSS",
+		"SCSS",
+		"SQL",
+		"Bootstrap"
+	],
+	"tools": [
+		"Visual Studio Code",
+		"Web Storm",
+		"Git",
+		"Postman",
+		"JIRA",
+		"Kibana",
+		"Figma",
+		"Amplience",
+		"Forgerock",
+		"Salesforce - Demandware",
+		"Algolia"
+	],
+	"education": [
+		{
+			"degree": "Bachelor of Engineering",
+			"university": "IET DAVV, Indore, M. P",
+			"year": "2016"
+		}
+	]
+}

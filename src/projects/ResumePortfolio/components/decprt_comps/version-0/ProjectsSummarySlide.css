@@ -1,0 +1,20 @@
+.project-slide .slick-slider {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.project-slide .slick-slider .slick-track {
+	padding: 20px 0;
+}
+
+@media screen and (min-width: 1024px) {
+	.project-slide .slick-slider .slick-slide {
+		transform: scale(0.9);
+		transition: transform 0.5s ease-in-out;
+	}
+
+	.project-slide .slick-slider .slick-slide.slick-current + .slick-slide {
+		transform: scale(1.1);
+	}
+}
