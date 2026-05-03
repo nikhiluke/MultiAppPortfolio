@@ -1,0 +1,384 @@
+{
+	"personalInfo": {
+		"name": "Nikhil Uke",
+		"role": "Frontend Architecture Specialist",
+		"location": "Indore, India",
+		"email": "nikhiluke@gmail.com",
+		"status": "Available for Remote Roles",
+		"avatar": "/profilepic.png",
+		"summary": "10+ years of expertise in crafting high-performance web systems with React, Next.js, and TypeScript. Expert in leveraging GenAI for developer velocity.",
+		"longSummary": "Result-oriented IT professional with 10+ years of experience. Proficient in application development, modernization, and performance optimization using React JS, Next JS, and TypeScript. Expert in leveraging Gen AI and Prompt Engineering to enhance efficiency.",
+		"socials": [
+			{
+				"platform": "LinkedIn",
+				"url": "https://www.linkedin.com/in/nikhil-uke/",
+				"icon": "Linkedin"
+			},
+			{
+				"platform": "GitHub",
+				"url": "https://github.com/nikhiluke",
+				"icon": "Github"
+			},
+			{ "platform": "Twitter", "url": "#", "icon": "Twitter" },
+			{ "platform": "Dribbble", "url": "#", "icon": "Dribbble" }
+		]
+	},
+	"experiences": [
+		{
+			"company": "Publicis Sapient",
+			"role": "Senior Software Engineer",
+			"period": "2021 – Present",
+			"description": "Leading frontend development, modernization, and performance optimization for high-scale e-commerce & Telecommunication platforms."
+		},
+		{
+			"company": "Capita India",
+			"role": "Software Engineer",
+			"period": "2019 – 2021",
+			"description": "Developed public safety control room solutions and mission-critical web applications for public safety domain."
+		},
+		{
+			"company": "Accenture",
+			"role": "Analyst Software Engineer",
+			"period": "2017 – 2018",
+			"description": "Design and Integrated on enterprise-level identity and access management solutions."
+		},
+		{
+			"company": "Accenture",
+			"role": "Associate Software Engineer",
+			"period": "2016 – 2017",
+			"description": "Built web-based solutions for risk assessment and premium computation in insurance domain projects."
+		}
+	],
+	"projects": [
+		{
+			"client": "BrandSafway",
+			"title": "Fieldtrax",
+			"tech": [
+				"React.js",
+				"React Native",
+				"Redux",
+				"JavaScript",
+				"jQuery",
+				"HTML5",
+				"CSS3",
+				"MUI",
+				"Jest",
+				"React Testing Library (RTL)"
+			],
+			"description": "BrandSafway is a construction and civil engineering company in the United States that provides safety equipment globally across 114 locations. We are helping them in creating application for creating, updating and tracking job records and manage timesheet of their employees",
+			"github": "#",
+			"link": "#"
+		},
+		{
+			"client": "Carter's Oshkosh",
+			"title": "Carter's Oshkosh Website",
+			"tech": [
+				"React.js",
+				"React Query",
+				"Redux",
+				"JavaScript",
+				"jQuery",
+				"HTML5",
+				"CSS3",
+				"B2C Salesforce",
+				"Amplience (CMS)",
+				"Salesforce PWA Kit",
+				"Algolia AI Search",
+				"PWA Kit",
+				"Algolia AI Search"
+			],
+			"description": "Built an e-commerce website for Carter's, Inc. Carter's is the largest branded marketer of apparel for babies and young children in North America, with brands including Carter's, OshKosh B'gosh, Skip Hop, and Little Planet.",
+			"github": "#",
+			"link": "#"
+		},
+		{
+			"client": "Verizon",
+			"title": "ACSS",
+			"tech": [
+				"React",
+				"Redux",
+				"Saga",
+				"JavaScript UI / UX Development",
+				"JavaScript",
+				"JSON",
+				"JQuery",
+				"Bootstrap",
+				"UIKit",
+				"Reusable Components",
+				"ExtJS",
+				"Webpack",
+				"Node",
+				"NPM",
+				"Rest Services",
+				"CSS 3",
+				"HTML 5"
+			],
+			"description": "Built and Migrated ACSS, a support web application for a major U.S. telecommunications brand, from ExtJS to React. The application supports features such as plan search, offer search, and customer information management",
+			"github": "#",
+			"link": "#"
+		},
+		{
+			"client": "Ariat International",
+			"title": "Ariat Website",
+			"tech": [
+				"JavaScript",
+				"Jquery",
+				"HTML5",
+				"CSS3",
+				"B2C Salesforce",
+				"Amplience (CMS)",
+				"Salesforce PWA Kit",
+				"Algolia AI search"
+			],
+			"description": "Built an e-commerce website for Ariat, an equestrian athletic footwear and outdoor apparel brand. The platform allows users to browse and purchase products, handles high shopper loads during sales, and showcases products.",
+			"github": "#",
+			"link": "#"
+		},
+		{
+			"client": "Capita India",
+			"title": "Control Works",
+			"tech": [
+				"React",
+				"Typescript",
+				"Redux",
+				"Saga",
+				"Electron.js",
+				"CSS",
+				"RabbitMq",
+				" WPF"
+			],
+			"description": "This Application is built to help Control room by managing resource, worker and incident.By using this application, a control room person can monitor the current state of resource, worker and incident.By using this application, a control room person can quickly make decision to ensure maximize public safety with minimum delay in response.",
+			"github": "#",
+			"link": "#"
+		},
+		{
+			"client": "Hartford",
+			"title": "CIAM",
+			"tech": ["Angular", "ForgeRock", "Bootstrap", "JavaScript", "CSS"],
+			"description": "This application is design to make centralized system which will integrate with different application of Hartford to provide services like: Login, Device Match, Registration via email, Registration via website, Forgot Email, Forgot Password, Update Profile and Update Password for different user of different application.Here we are using ForgeRock tools for access and identity of Management.",
+			"github": "#",
+			"link": "#"
+		},
+		{
+			"client": "Hartford",
+			"title": "CXR",
+			"tech": ["Angular", "ForgeRock", "Bootstrap", "JavaScript", "CSS"],
+			"description": "This application was designed for policy holders and gives them services like Online registration and login for using insurance-banking related services. Device Match Services for saving device details. Forgot Email and Forgot Password in case user forgot their credentials. Here we are using ForgeRock tools for access and identity of Management.",
+			"github": "#",
+			"link": "#"
+		},
+		{
+			"client": "Hartford",
+			"title": "Large Property",
+			"tech": [
+				"React",
+				"Django",
+				"SQL",
+				"Bootstrap",
+				"JavaScript",
+				"CSS"
+			],
+			"description": "This application helps underwriters in evaluating Property Policies with large number of locations. Tool gets basic\ndata in excel from user, puts it in DB and in turn calls two services from backend to get Earthquake and Flood related\ndata. Based on this data multiple reports are generated to help understand user the Premiums that can be charged.",
+			"github": "#",
+			"link": "#"
+		}
+	],
+	"skills": [
+		{
+			"name": "React JS",
+			"category": "Core Tech",
+			"color": "text-cyan-400",
+			"icon": "SiReact"
+		},
+		{
+			"name": "Next JS",
+			"category": "Core Tech",
+			"color": "text-white",
+			"icon": "SiNextdotjs"
+		},
+		{
+			"name": "React Native",
+			"category": "Core Tech",
+			"color": "text-cyan-600",
+			"icon": "SiReact"
+		},
+
+		{
+			"name": "Node JS",
+			"category": "Core Tech",
+			"color": "text-green-400",
+			"icon": "SiNodedotjs"
+		},
+		{
+			"name": "Redux",
+			"category": "Core Tech",
+			"color": "text-purple-400",
+			"icon": "SiRedux"
+		},
+		{
+			"name": "Saga",
+			"category": "Core Tech",
+			"color": "text-blue-400",
+			"icon": "SiReduxsaga"
+		},
+		{
+			"name": "JavaScript",
+			"category": "Core Tech",
+			"color": "text-yellow-400",
+			"icon": "SiJavascript"
+		},
+		{
+			"name": "TypeScript",
+			"category": "Core Tech",
+			"color": "text-blue-500",
+			"icon": "SiTypescript"
+		},
+		{
+			"name": "SQL",
+			"category": "Core Tech",
+			"color": "text-orange-400",
+			"icon": "SiMysql"
+		},
+		{
+			"name": "HTML5",
+			"category": "Core Tech",
+			"color": "text-gray-400",
+			"icon": "SiHtml5"
+		},
+		{
+			"name": "CSS3",
+			"category": "Core Tech",
+			"color": "text-blue-400",
+			"icon": "SiCss"
+		},
+		{
+			"name": "Bootstrap",
+			"category": "UI Framework",
+			"color": "text-purple-500",
+			"icon": "SiBootstrap"
+		},
+		{
+			"name": "MUI",
+			"category": "UI Framework",
+			"color": "text-blue-400",
+			"icon": "SiMui"
+		},
+		{
+			"name": "Tailwind CSS",
+			"category": "UI Framework",
+			"color": "text-teal-400",
+			"icon": "SiTailwindcss"
+		},
+		{
+			"name": "Jest",
+			"category": "Testing",
+			"color": "text-pink-400",
+			"icon": "SiJest"
+		}
+	],
+	"tools": [
+		{ "name": "VS Code", "color": "text-blue-400", "icon": "FileCode" },
+		{ "name": "Git", "color": "text-orange-500", "icon": "SiGit" },
+		{ "name": "Github", "color": "text-orange-500", "icon": "SiGit" },
+		{ "name": "GitLab", "color": "text-orange-500", "icon": "SiGit" },
+
+		{ "name": "Postman", "color": "text-orange-400", "icon": "SiPostman" },
+		{ "name": "JIRA", "color": "text-blue-600", "icon": "SiJira" },
+		{ "name": "Figma", "color": "text-purple-500", "icon": "SiFigma" },
+		{ "name": "Algolia", "color": "text-blue-400", "icon": "SiAlgolia" },
+		{ "name": "Web Storm", "color": "text-cyan-500", "icon": "SiWebstorm" },
+		{ "name": "Salesforce", "color": "text-blue-400", "icon": "SiIcloud" },
+		{
+			"name": "Amplience",
+			"color": "text-yellow-400",
+			"icon": "SiAmplience"
+		},
+		{ "name": "ForgeRock", "color": "text-green-400", "icon": "SiKeybase" },
+		{ "name": "RabbitMQ", "color": "text-red-400", "icon": "SiRabbitmq" },
+		{ "name": "Webpack", "color": "text-purple-400", "icon": "SiWebpack" },
+		{ "name": "NPM", "color": "text-red-500", "icon": "SiNpm" }
+	],
+	"awards": [
+		{
+			"title": "Meaningful Moments - Embracing the Future",
+			"org": "Publicis Sapient - Carters",
+			"year": "2025",
+			"type": "Trophy"
+		},
+		{
+			"title": "TMT Awards - Learning Mindset",
+			"org": "Publicis Sapient - Verizon",
+			"year": "2024",
+			"type": "Award"
+		},
+		{
+			"title": "Core Value Award - Partnering for Clients Impact",
+			"org": "Publicis Sapient - Ariat",
+			"year": "2022",
+			"type": "Star"
+		}
+	],
+	"testimonials": [
+		{
+			"name": "Lee Morrisseau",
+			"role": "Senior Director Agile Program Management @ Publicis Sapient",
+			"content": "Nikhil deserves recognition for embracing the future through his curiosity and initiative. While he has been delivering strong results on Carter's-optimizing the site for the holidays and resolving difficult, low-occurrence issues-his standout contribution is his self-driven exploration of virtual try-on (VTO) technology using Google's Al tools. He independently built a working proof of concept directly into the website and presented it to account leadership, demonstrating both technical creativity and a forward-thinking mindset. His work aligns perfectly with Carter's ongoing Al initiatives,complementing the intent-powered search POC and helping pave the way for broader Al-enabled solutions. Nikhil's proactive learning and drive to apply emerging technology meaningfully make him an excellent example of innovation in action.",
+			"avatar": "https://ui-avatars.com/api/?name=LM&background=4f46e5&color=fff"
+		},
+		{
+			"name": "Senthilkumar Avanasiappan",
+			"role": "Manager Technology @ Publicis Sapient",
+			"content": "Nikhil joined Ariat as an XT developer when there was much backlog work on XT stories. He has picked up faster on project and SFCC technology. He has started greater deliverables from the start and made a lot of impressions with Business and other team members. His approach to the stories is client mindset and process-oriented. This helped the team to deliver better results from the day he joined the team.",
+			"avatar": "https://ui-avatars.com/api/?name=SA&background=0284c7&color=fff"
+		},
+		{
+			"name": " Narayana Guntupalli",
+			"role": "Senior Associate @ Publicis Sapient",
+			"content": "As I observed, Nikhil is good in all the aspects, handling the client requirements and helping each our team to understand the things and if we struck up in middle of UI related issues, he will always helps to get it sorted. He is easily approachable person in any time and good to have such a person in team. I want to nominate to him under openness category.",
+			"avatar": "https://ui-avatars.com/api/?name=SA&background=0284c7&color=fff"
+		},
+		{
+			"name": "Nitika Bansal",
+			"role": "Lead UX Engineer @ Publicis Sapient",
+			"content": "Nikhil joined our project 2 months back only, having great grasping power, the ramping up process become very smooth and he can pick any story independently now with minimalist oversight. He has picked one of the most complex UI stories and delivered without any re-opens. He is totally geared up to follow the industries best practices in writing the code and able to maintain the code quality. Able to understand business requirements and prompt to put forward any risks and assumptions on any tasks assigned to him. I am glad to have him as a part of Ariat Team and with his expertise and problem solving attitude we can deliver complex-to-complex stories",
+			"avatar": "https://ui-avatars.com/api/?name=NB&background=0284c7&color=fff"
+		}
+	],
+	"personalProjects": [
+		{
+			"title": "Js Editor with online code execution",
+			"desc": "Designed and developed a web-based JavaScript code editor with integrated online code execution capabilities, enabling users to write, test, and debug JavaScript code in real-time within a user-friendly interface.",
+			"tech": ["React", "CodeMirror", "Tailwind CSS"],
+			"link": "/my-projects/online-js-Editor",
+			"github": "https://github.com/nikhiluke"
+		},
+		{
+			"title": "Privacy-First Local LLM Chatbot",
+			"desc": "Engineered a locally deployed chatbot using Llama (GGUF) with node-llama-cpp, integrating voice capabilities (TTS) to deliver secure, offline, and voice-enabled conversational experiences.",
+			"tech": ["Node.js", "Electron.js", "React", "Ollama", "WebLLM"],
+			"link": null,
+			"github": null
+		},
+		{
+			"title": "AI-Powered Semantic Search Platform",
+			"desc": "Architected a conversational search system using OpenAI APIs, enabling natural language queries and improving search relevance and discovery beyond traditional keyword-based approache",
+			"tech": ["Node.js", "ChatGPT API", "React"],
+			"link": null,
+			"github": null
+		},
+		{
+			"title": "Virtual Try-On Experience",
+			"desc": "Developed an interactive, real-time product visualization solution, enhancing customer engagement and digital experience in e-commerce environments.",
+			"tech": ["Node.js", "Gemini API", "React"],
+			"link": null,
+			"github": null
+		}
+	],
+	"education": {
+		"degree": "Bachelor of Engineering",
+		"institution": "IET DAVV, Indore",
+		"location": "Indore, M. P.",
+		"period": "Class of 2016",
+		"year": "2016"
+	}
+}
